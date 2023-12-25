@@ -1,4 +1,4 @@
-%% Basic and Stem Plot of sin(2*pi*t)
+%% Echo Generation using the Difference Equation
 load("handel.mat");
 sound(y,Fs);
 pause(10);
